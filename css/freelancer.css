@@ -484,6 +484,11 @@ mark,
 }
 
 .img-fluid {
+  max-width: 100%;
+  height: auto;
+}
+
+.img-fluid-logo {
   max-width: 70%;
   height: auto;
 }
