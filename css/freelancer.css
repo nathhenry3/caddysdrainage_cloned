@@ -7219,8 +7219,8 @@ button.bg-dark:focus {
 	position:fixed;
 	width:200px;
 	height:70px;
-	bottom:40px;
-	right:40px;
+  bottom:40px;
+  right:350px;
 	background-color:#0C9;
 	color:#FFF;
 	border-radius:50px;
