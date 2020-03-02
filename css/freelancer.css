@@ -7215,6 +7215,22 @@ button.bg-dark:focus {
   float: none !important;
 }
 
+.float{
+	position:fixed;
+	width:200px;
+	height:70px;
+	bottom:40px;
+	right:40px;
+	background-color:#0C9;
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+}
+
+.my-float{
+	margin-top:22px;
+}
+
 @media (min-width: 576px) {
   .float-sm-left {
     float: left !important;
