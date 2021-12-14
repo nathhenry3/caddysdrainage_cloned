@@ -1,12 +1,3 @@
-TO DO:
-
-Fix one click phone call button - make smaller
-Remove adjacent 'page top' button that is only seen in mobile
-
-
-
-
-
 
 
 For All Your
